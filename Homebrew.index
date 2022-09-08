@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+	<name>Homebrew</name>
+    <update version="1.0">
+      <file name="Homebrew.index" url="https://raw.githubusercontent.com/ErikNewt/Homebrew/main/Homebrew.index"/>
+    </update>
+  </info>
+  <files>
+    <file name="dimkitten.xml" url="https://raw.githubusercontent.com/ErikNewt/Homebrew/main/dimkitten.xml" />
+  </files>
+</index>
