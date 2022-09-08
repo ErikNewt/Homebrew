@@ -3,7 +3,7 @@
   <info>
 	<name>Erik's Homebrew</name>
 	<description>Homebrew content for the world of Amina</description>
-	<author url="https://github.com/ErikNewt/Homebrew">Erik and Ciaran</author>
+	<author url="https://github.com/ErikNewt/homebrew">Erik and Ciaran</author>
     <update version="1.1">
       <file name="homebrew.index" url="https://raw.githubusercontent.com/ErikNewt/homebrew/main/homebrew.index"/>
     </update>
