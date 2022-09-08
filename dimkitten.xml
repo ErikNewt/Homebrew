@@ -62,10 +62,10 @@
 	</element>
 	<element name="Cat's Grace" type="Companion Trait" source="Homebrew" id="ID_GFP_HOMEBREW_COMPANION_TRAIT_CATS_GRACE">
 		<description>
-			<p>The dimkitten takes half damage from falling heights under 20 feet, or may pass a DC 10 Dexterity (Acrobatics) check to take no damage from falling instead.</p>
+			<p>When falling from a height of 20 feet or fewer, the dimkitten may make a DC 10 Dexterity (Acrobatics) check to take no damage from falling, or half damage on a failed save.</p>
 		</description>
 		<sheet>
-			<description>The dimkitten takes half damage from falling, or may pass a DC 10 Dexterity (Acrobatics) check to take no damage instead.</description>
+			<description>When falling from a height of 20 feet or fewer, the dimkitten may make a DC 10 Dexterity (Acrobatics) check to take no damage from falling, or half damage on a failed save.</description>
 		</sheet>
 	</element>
 		<element name="Claws" type="Companion Action" source="Player’s Handbook" id="ID_WOTC_PHB_COMPANION_ACTION_CAT_CLAWS">
