@@ -9,7 +9,7 @@
     </update>
   </info>
   <files>
-    <file name="dimkitten.xml" url="https://raw.githubusercontent.com/ErikNewt/Homebrew/main/homebrew/dimkitten.xml" />
+    <file name="dimkitten.xml" url="https://raw.githubusercontent.com/ErikNewt/Homebrew/main/homebrew/familiars/dimkitten.xml" />
 	<!--
 	<file name="Name of XML.xml" url="raw github link" />
 	-->
