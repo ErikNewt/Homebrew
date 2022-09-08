@@ -5,7 +5,7 @@
 		<description>Deities from the World of Amina.</description>
 		<author url="https://www.worldanvil.com/w/amina-ciarandfox">Ciaran Fox</author>
 		<update version="0.2">
-			<file name="deities.xml" url="https://raw.githubusercontent.com/ErikNewt/homebrew/homebrew/world/deities.xml" />
+			<file name="deities.xml" url="https://raw.githubusercontent.com/ErikNewt/homebrew/main/homebrew/world/deities.xml" />
 		</update>
 	</info>
 	<element name="Catrana" type="Deity" source="Erik and Ciaran Homebrew" id="ID_EAC_DEITY_CATRANA">
