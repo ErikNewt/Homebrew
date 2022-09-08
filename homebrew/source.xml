@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/ErikNewt/Homebrew/main/homebrew/source.xml" />
+		</update>
+	</info>
+	<element name="Homebrew" type="Source" source="Core" id="ID_HOMEBREW_SOURCE_ERIK_AND_CIARAN">
+		<description>
+			<![CDATA[<p></p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">EAC</set>
+			<set name="url">https://github.com/ErikNewt/Homebrew</set>
+			<set name="author" url="https://github.com/ErikNewt/Homebrew">Erik and Ciaran</set>
+			<set name="homebrew">true</set>
+		</setters>
+	</element>
+</elements>
