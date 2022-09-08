@@ -5,7 +5,7 @@
 			<file name="source.xml" url="https://raw.githubusercontent.com/ErikNewt/homebrew/main/homebrew/source.xml" />
 		</update>
 	</info>
-	<element name="Erik and Ciaran Homebrew" type="Source" source="Core" id="ID_HOMEBREW_SOURCE_ERIK_AND_CIARAN">
+	<element name="Erik and Ciaran Homebrew" type="Source" source="Third-Party" id="ID_HOMEBREW_SOURCE_ERIK_AND_CIARAN">
 		<description>
 			<![CDATA[<p></p>]]>
 		</description>
