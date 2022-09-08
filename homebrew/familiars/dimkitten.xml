@@ -3,9 +3,9 @@
 	<info>
 		<name>Dimkitten</name>
 		<description>Dimkitten Familiar</description>
-		<author url="https://github.com/ErikNewt/Homebrew">Erik and Ciaran Homebrew</author>
+		<author url="https://github.com/ErikNewt/homebrew">Erik and Ciaran Homebrew</author>
 		<update version="1.01">
-			<file name="dimkitten.xml" url="https://raw.githubusercontent.com/ErikNewt/Homebrew/main/homebrew/familiars/dimkitten.xml" />
+			<file name="dimkitten.xml" url="https://raw.githubusercontent.com/ErikNewt/homebrew/main/homebrew/familiars/dimkitten.xml" />
 	</info>
 <element name="Dimkitten" type="Companion" source="Erik and Ciaran Homebrew" id="ID_EAC_COMPANION_DIMKITTEN">
 		<supports>Familiar, Variant Familiar</supports>
