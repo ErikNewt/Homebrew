@@ -10,6 +10,7 @@
   </info>
   <files>
     <file name="dimkitten.xml" url="https://raw.githubusercontent.com/ErikNewt/homebrew/main/homebrew/familiars/dimkitten.xml" />
+    <file name="deities.xml" url="https://raw.githubusercontent.com/ErikNewt/homebrew/main/homebrew/world/deities.xml" />
 	<!--
 	<file name="Name of XML.xml" url="raw github link" />
 	-->
