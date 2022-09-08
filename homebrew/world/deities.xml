@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Deities</name>
+		<description>Deities from the World of Amina.</description>
+		<author url="https://www.worldanvil.com/w/amina-ciarandfox">Ciaran Fox</author>
+		<update version="0.2">
+			<file name="deities.xml" url="https://raw.githubusercontent.com/ErikNewt/homebrew/homebrew/world/deities.xml" />
+		</update>
+	</info>
+	<element name="Catrana" type="Deity" source="Erik and Ciaran Homebrew" id="ID_EAC_DEITY_CATRANA">
+		  <description>
+			<p class="flavor">Z of X</p>
+		  </description>
+        <setters>
+          <set name="setting">Amina</set>
+          <set name="alignment">X</set>
+          <set name="domains">X, Y</set>
+          <set name="symbol">Z</set>
+          <set name="gender">Z</set>
+        </setters>
+      <sheet>
+        <description>Z of X</description>
+      </sheet>
+    </element>
+	<element name="Manek" type="Deity" source="Erik and Ciaran Homebrew" id="ID_EAC_DEITY_MANEK">
+		  <description>
+			<p class="flavor">Z of X</p>
+		  </description>
+        <setters>
+          <set name="setting">Amina</set>
+          <set name="alignment">X</set>
+          <set name="domains">X, Y</set>
+          <set name="symbol">Z</set>
+          <set name="gender">Z</set>
+        </setters>
+      <sheet>
+        <description>Z of X</description>
+      </sheet>
+    </element>
+	<element name="Tasit" type="Deity" source="Erik and Ciaran Homebrew" id="ID_EAC_DEITY_TASIT">
+		  <description>
+			<p class="flavor">Z of X</p>
+		  </description>
+        <setters>
+          <set name="setting">Amina</set>
+          <set name="alignment">X</set>
+          <set name="domains">X, Y</set>
+          <set name="symbol">Z</set>
+          <set name="gender">Z</set>
+        </setters>
+      <sheet>
+        <description>Z of X</description>
+      </sheet>
+    </element>
+	<element name="Oll" type="Deity" source="Erik and Ciaran Homebrew" id="ID_EAC_DEITY_OLL">
+		  <description>
+			<p class="flavor">Z of X</p>
+		  </description>
+        <setters>
+          <set name="setting">Amina</set>
+          <set name="alignment">X</set>
+          <set name="domains">X, Y</set>
+          <set name="symbol">Z</set>
+          <set name="gender">Z</set>
+        </setters>
+      <sheet>
+        <description>Z of X</description>
+      </sheet>
+    </element>
+	<element name="Tholl" type="Deity" source="Erik and Ciaran Homebrew" id="ID_EAC_DEITY_THOLL">
+		  <description>
+			<p class="flavor">Z of X</p>
+		  </description>
+        <setters>
+          <set name="setting">Amina</set>
+          <set name="alignment">X</set>
+          <set name="domains">X, Y</set>
+          <set name="symbol">Z</set>
+          <set name="gender">Z</set>
+        </setters>
+      <sheet>
+        <description>Z of X</description>
+      </sheet>
+    </element>
+	<element name="Faller" type="Deity" source="Erik and Ciaran Homebrew" id="ID_EAC_DEITY_FALLER">
+		  <description>
+			<p class="flavor">Z of X</p>
+		  </description>
+        <setters>
+          <set name="setting">Amina</set>
+          <set name="alignment">X</set>
+          <set name="domains">X, Y</set>
+          <set name="symbol">Z</set>
+          <set name="gender">Z</set>
+        </setters>
+      <sheet>
+        <description>Z of X</description>
+      </sheet>
+    </element>
+	<element name="Yin" type="Deity" source="Erik and Ciaran Homebrew" id="ID_EAC_DEITY_YIN">
+		  <description>
+			<p class="flavor">Z of X</p>
+		  </description>
+        <setters>
+          <set name="setting">Amina</set>
+          <set name="alignment">X</set>
+          <set name="domains">X, Y</set>
+          <set name="symbol">Z</set>
+          <set name="gender">Z</set>
+        </setters>
+      <sheet>
+        <description>Z of X</description>
+      </sheet>
+    </element>
+  </element>
